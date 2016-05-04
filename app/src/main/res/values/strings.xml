@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">StackOverflow RSS Reader</string>
+    <string name="SHARED_PREFS">com.uwt450.julia.serviceslab.SHAREDPREFS</string>
+    <string name="ON">on</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
